@@ -15,13 +15,13 @@ Check mean, quantile, and max kill </br>
 Draw inference by plotting kill counts__
 Check signs of cheating
 
-*Feature Engineering:
+* Feature Engineering:
 Creating new features from existing to depict data in a better way
 Expressing relative rank instead of absolute in the form of percentage
 Dropping redundant features
 Dropping cheaters
 Grouping and aggregating features
 
-*Model Creation:
+* Model Creation:
 Create a sequential model with Keras using Tensorflow backend
 Take four dense layers, three dropout layers, three batch normalizations, and use PreLu as an activation function
