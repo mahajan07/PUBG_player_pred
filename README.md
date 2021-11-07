@@ -23,5 +23,5 @@ Dropping cheaters <br  />
 Grouping and aggregating features <br  />
 
 * Model Creation: <br  />
-Create a sequential model with Keras using Tensorflow backend __
-Take four dense layers, three dropout layers, three batch normalizations, and use PreLu as an activation function __
+Create a sequential model with Keras using Tensorflow backend <br  />
+Take four dense layers, three dropout layers, three batch normalizations, and use PreLu as an activation function <br  />
