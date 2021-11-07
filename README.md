@@ -11,7 +11,7 @@ Provideddata is with a large number of anonymous PUBG game stats, formatted so t
 # Steps guide to perform exploration of the data and apply feature engineering on the data to predict players finishing placement.
 
 * Data Exploration:
-Check mean, quantile, and max kill </br>
+Check mean, quantile, and max kill <br  />
 Draw inference by plotting kill counts__
 Check signs of cheating
 
