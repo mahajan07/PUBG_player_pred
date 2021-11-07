@@ -12,16 +12,16 @@ Provideddata is with a large number of anonymous PUBG game stats, formatted so t
 
 * Data Exploration:
 Check mean, quantile, and max kill <br  />
-Draw inference by plotting kill counts__
-Check signs of cheating
+Draw inference by plotting kill counts <br  />
+Check signs of cheating <br  />
 
 * Feature Engineering:
-Creating new features from existing to depict data in a better way
-Expressing relative rank instead of absolute in the form of percentage
-Dropping redundant features
-Dropping cheaters
-Grouping and aggregating features
+Creating new features from existing to depict data in a better way <br  />
+Expressing relative rank instead of absolute in the form of percentage <br  />
+Dropping redundant features <br  />
+Dropping cheaters <br  />
+Grouping and aggregating features <br  />
 
-* Model Creation:
-Create a sequential model with Keras using Tensorflow backend
-Take four dense layers, three dropout layers, three batch normalizations, and use PreLu as an activation function
+* Model Creation: <br  />
+Create a sequential model with Keras using Tensorflow backend __
+Take four dense layers, three dropout layers, three batch normalizations, and use PreLu as an activation function __
