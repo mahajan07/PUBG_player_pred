@@ -1,4 +1,4 @@
-# PUBG PLAYER PREDICTION ON UNKNOWN BATTLEGROUNBD::
+# PUBG PLAYER PREDICTION ON UNKNOWN BATTLEGROUND::
 ### DESCRIPTION Domain: Gaming
 Create a model that predicts players’ finishing placement based on their final stats, on a scale of 1 (first place) to 0 (last place). 
 ### Problem Statement:  
